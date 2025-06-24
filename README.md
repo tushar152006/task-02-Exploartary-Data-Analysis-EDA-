@@ -1,4 +1,4 @@
-# task-02-Exploartary-Data-Analysis-EDA-
+# task-02-Exploratory-Data-Analysis-EDA-
 Data analysis
 
 Objective :
